@@ -2,9 +2,9 @@
 title: "About of CALST"
 ---
 
-#### Mission Statement
+At CALST (Co-study Group on Advanced Learning Science and Technology), we view learning as one of the most profound intellectual activities in human life. Our mission is to advance this critical intellectual endeavor through innovative research in artificial intelligence and beyond, focusing on the modeling and systematization of learning processes.
 
-At CALST (Co-study Group on Advanced Learning Science and Technology), we view learning as one of the most profound intellectual activities in human life. Our mission is to advance this critical intellectual endeavor through innovative research in artificial intelligence and beyond, focusing on the modeling and systematization of learning processes. Our detailed missions are:
+#### Mission Statement
 
 1. **Encourage In-depth Discussion:** To encourage logical and in-depth discussion of the complexities of learning as an intellectual activity, and to promote wide-ranging debates within advanced learning science and technology, free from conventional constraints and excuses.
 

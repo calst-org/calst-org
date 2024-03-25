@@ -24,10 +24,14 @@ name = "History"
 pageRef = "/history"
 weight = 30
 [[menu.main]]
+name = "Weekly Meeting"
+pageRef = "/weekly-meeting"
+weight = 40
+[[menu.main]]
 name = "Organization"
 pageRef = "/organization"
-weight = 40
+weight = 50
 [[menu.main]]
 name = "Contact"
 pageRef = "/contact"
-weight = 50
+weight = 60
