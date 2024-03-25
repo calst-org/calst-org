@@ -1,0 +1,33 @@
+baseURL = 'https://calst.org/'
+languageCode = 'en-us'
+title = 'CALST: Co-study Group on Advanced Learning Science and Technology'
+theme = 'hugo-simple'
+copyright = "© 2024 CALST"
+
+enableRobotsTXT = true
+
+[params]
+favicon = "images/favicon.png"
+dateFormat = "2006-01-02"
+hideMadeWithLine = false
+
+[[menu.main]]
+name = "Home"
+pageRef = "/"
+weight = 10
+[[menu.main]]
+name = "About"
+pageRef = "/about"
+weight = 20
+[[menu.main]]
+name = "History"
+pageRef = "/history"
+weight = 30
+[[menu.main]]
+name = "Organization"
+pageRef = "/organization"
+weight = 40
+[[menu.main]]
+name = "Contact"
+pageRef = "/contact"
+weight = 50
