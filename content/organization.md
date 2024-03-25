@@ -4,14 +4,14 @@ title: "Organization"
 
 #### Executive Committee
 
-- Tomoki Aburatani (Osaka Prefecture University) - Co-founder
-- Kento Koike (Kyoto University) - Co-founder
-- Atsushi Asida (Osaka University)
+- Tomoki Aburatani (Osaka Prefecture University) - Co-founder, [Website](https://dbym4820.org)
+- Kento Koike (Kyoto University) - Co-founder, [Website](https://koike.app/en/), [Google Scholar](https://scholar.google.co.jp/citations?&user=rge9aIcAAAAJ)
+- Atsushi Ashida (Osaka University), [Website](https://www.ids.osaka-u.ac.jp/en/author/atsushi-ashida/), [Google Scholar](https://scholar.google.com/citations?user=WdcpCcMAAAAJ)
 - Kai Morita (JAIST)
 
 #### Members
 
-(Alphabetical order)
+(Alphabetical order: 2024-04-01)
 - Nonoka Aikawa
 - Kengo Iwai
 - Kota Kunori
