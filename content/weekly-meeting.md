@@ -10,7 +10,7 @@ To provide a vibrant forum for presenting ongoing research, discussing current t
 
 #### Schedule and Format
 
-- **When:** Every Wednesday, 6:00 pm to 8:00 pm (GMT+9 / JST)
+- **When:** Every Wednesday, 7:00 pm to 9:00 pm (GMT+9 / JST)
 - **Where:** Online via Zoom
 - **Format:** Includes 2-3 member presentations followed by Q&A, with open discussion on selected topics.
 
