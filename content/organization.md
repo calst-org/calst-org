@@ -11,18 +11,26 @@ title: "Organization"
 
 #### Members
 
-(Alphabetical order: 2024-04-04)
+(Order of Registration: 2024-04-17)
+- Tomohiro Mogi
 - Nonoka Aikawa
-- Kengo Iwai
 - Kota Kunori
 - Shintaro Maeda
-- Yin Pengcheng
-- Takumi Shibata
+- Kengo Iwai
+- Pengcheng Yin
+- Shigen Shimojo
 - Toshiyuki Shimazaki
-- Shigen Simojo
 - Kazuki Sugita
+- Kodai Watanabe
 - Yuto Tomikawa
+- Takumi Shibata
 - Kazuma Nagashima
 - Jumpei Nishikawa
-- Tomohiro Mogi
-- Kodai Watanabe
+- Taito Kano
+- Kensuke Takii
+- Koki Okumura
+- Kohei Nakamura
+- Isanka Wijerathne
+- Patrick Ocheja
+- Taisei Yamauchi
+- Shotaro Higashi
