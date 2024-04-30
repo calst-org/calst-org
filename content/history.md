@@ -2,7 +2,7 @@
 Title: "History"
 ---
 
-Originally founded as a fledgling community for mutual support between two master's students, CALST is now more than 5 years old with members from more than 10 laboratories (2024-04-01).
+Originally founded as a fledgling community for mutual support between two master's students, CALST is now 5+ years old with members from 10+ institutions (2024-04-01).
 
 ---
 #### Historical Summary

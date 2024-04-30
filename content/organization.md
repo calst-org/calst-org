@@ -11,26 +11,4 @@ title: "Organization"
 
 #### Members
 
-(Order of Registration: 2024-04-17)
-- Tomohiro Mogi
-- Nonoka Aikawa
-- Kota Kunori
-- Shintaro Maeda
-- Kengo Iwai
-- Pengcheng Yin
-- Shigen Shimojo
-- Toshiyuki Shimazaki
-- Kazuki Sugita
-- Kodai Watanabe
-- Yuto Tomikawa
-- Takumi Shibata
-- Kazuma Nagashima
-- Jumpei Nishikawa
-- Taito Kano
-- Kensuke Takii
-- Koki Okumura
-- Kohei Nakamura
-- Isanka Wijerathne
-- Patrick Ocheja
-- Taisei Yamauchi
-- Shotaro Higashi
+Currently, we are 27 members from 15 institutions (2024-04-17).
