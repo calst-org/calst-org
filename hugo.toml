@@ -6,8 +6,13 @@ copyright = "© 2024 CALST"
 
 enableRobotsTXT = true
 
+[markup]
+  [markup.goldmark]
+	[markup.goldmark.renderer]
+	  unsafe = true
+
 [params]
-favicon = "images/favicon.png"
+favicon = "/favicon.ico"
 dateFormat = "2006-01-02"
 hideMadeWithLine = false
 
