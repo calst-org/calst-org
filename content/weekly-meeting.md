@@ -10,7 +10,9 @@ To provide a vibrant forum for presenting ongoing research, discussing current t
 
 #### Schedule and Format
 
-- **When:** Every Wednesday, 5:00 pm to 7:00 pm (GMT+9 / JST)
+  **When:** Every Monday, 5:00 pm to 7:00 pm (GMT+9 / JST)
+  - This schedule will remain in effect for **the second semester of 2024**.
+  - It will also be adjusted at the beginning of each semester.
 - **Where:** Online via Zoom
 - **Format:** Includes 2-3 member presentations followed by Q&A, with open discussion on selected topics.
 
