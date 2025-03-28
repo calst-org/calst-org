@@ -9,4 +9,4 @@ title: "CALST: Co-study Group on Advanced Learning Science and Technology"
 
 **CALST aims to foster in-depth discussions without excuses** and to serve a collaborative environment where researchers can share knowledge, challenge each other's ideas, and grow together in their respective fields.
 
-More details: [/about](/about)
+More details: [/about](./about)
