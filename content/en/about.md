@@ -1,5 +1,5 @@
 ---
-title: "About of CALST"
+title: "About CALST"
 ---
 
 At CALST (Co-study Group on Advanced Learning Science and Technology), we view learning as one of the most profound intellectual activities in human life. Our mission is to advance this critical intellectual endeavor through innovative research in artificial intelligence and beyond, focusing on the modeling and systematization of learning processes.
@@ -18,20 +18,20 @@ At CALST (Co-study Group on Advanced Learning Science and Technology), we view l
 
 #### Research Topics
 
-Recognizing the inherent complexity and multifaceted nature of learning, CALST embraces a wide range of research topics that reflect our interdisciplinary ethos. These include:
+Recognizing the inherent complexity and multifaceted nature of learning, CALST embraces discussions on a wide range of research topics that reflect our interdisciplinary ethos. These include research on:
 
-- **Artificial Intelligence in Education:** Exploring the potential of AI to customize and enrich learning experiences, with a focus on its ability to adapt to and support the diverse natural learning processes of individuals.
+- **Artificial Intelligence in Education:** Investigating how AI can customize and enrich learning experiences by adapting to the diverse natural learning processes of individuals.
 
-- **Knowledge Engineering for Learning:** To develop tools and technologies, inspired by achievements in knowledge engineering and applied ontology, to support and enhance learning, with a focus on intelligent tutoring systems and adaptive learning environments.
+- **Knowledge Engineering for Learning:** Developing tools and technologies—drawing on advances in knowledge engineering and applied ontology—to support and enhance learning through intelligent tutoring systems and adaptive learning environments.
 
-- **Learning Sciences and Engineering:** To create an ecosystem that uses learning sciences findings to formulate hypotheses that accelerate learning processes, and to develop educational systems to test these theories and methods that improve learning effectiveness.
+- **Learning Sciences and Engineering:** Creating ecosystems that leverage findings from the learning sciences to generate hypotheses, design educational systems, and improve learning outcomes through empirical testing.
 
-- **Cognitive Science Applications:** Applying cognitive science theories to analyze and improve fundamental learning processes, emphasizing the ubiquity and diversity of learning across contexts and experiences.
+- **Applications of Cognitive Science:** Applying cognitive science theories to analyze and improve fundamental learning processes, with attention to the variability of learning across different contexts and experiences.
 
-- **Technology-Enhanced Learning:** Exploring the transformative role of technology in learning, from virtual and augmented reality to mobile learning platforms and online collaboration tools, all aimed at improving educational outcomes and experiences.
+- **Technology-Enhanced Learning:** Examining how technologies such as virtual and augmented reality, mobile platforms, and online collaboration tools can transform educational experiences and outcomes.
 
-- **Human-Computer Interaction (HCI) in Education:** Developing educational technologies that prioritize effective human-computer interaction to enhance the learning experience, with a focus on user-friendly interfaces and interactions.
+- **Human-Computer Interaction in Education:** Designing educational technologies that prioritize effective and intuitive interaction, enhancing the learning experience through user-centered design.
 
-- **Learning Analytics and Educational Data Mining:** Using analytics and machine learning to extract meaningful insights from educational data, with the goal of improving teaching practices and learning outcomes by understanding the diverse and situational characteristics of learning.
+- **Learning Analytics and Educational Data Mining:** Using data analytics and machine learning to derive actionable insights from educational data, aiming to improve teaching practices and understand the diverse characteristics of learners and learning environments.
 
 Through discussions related to these topics, CALST aims to encourage our members to cultivate innovative ideas and perspectives, fostering a rich, dynamic, and evolving environment of discussion and discovery.

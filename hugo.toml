@@ -1,8 +1,10 @@
-baseURL = 'https://calst.org/'
-languageCode = 'en-us'
-title = 'CALST: Co-study Group on Advanced Learning Science and Technology'
+baseURL = 'https://www.calst.org/'
 theme = 'hugo-simple'
-copyright = "© 2024 CALST"
+copyright = "© 2024 CALST Executive Committee"
+
+languageCode = "ja"
+DefaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = true
 
 enableRobotsTXT = true
 
@@ -16,27 +18,68 @@ favicon = "/favicon.ico"
 dateFormat = "2006-01-02"
 hideMadeWithLine = false
 
-[[menu.main]]
+[[languages.ja.menu.main]]
+name = "ホーム"
+pageRef = "/"
+weight = 10
+[[languages.en.menu.main]]
 name = "Home"
 pageRef = "/"
 weight = 10
-[[menu.main]]
+
+[[languages.ja.menu.main]]
+name = "概要"
+pageRef = "/about"
+weight = 20
+[[languages.en.menu.main]]
 name = "About"
 pageRef = "/about"
 weight = 20
-[[menu.main]]
+
+[[languages.ja.menu.main]]
+name = "沿革"
+pageRef = "/history"
+weight = 30
+[[languages.en.menu.main]]
 name = "History"
 pageRef = "/history"
 weight = 30
-[[menu.main]]
+
+[[languages.ja.menu.main]]
+name = "定例ミーティング"
+pageRef = "/weekly-meeting"
+weight = 40
+[[languages.en.menu.main]]
 name = "Weekly Meeting"
 pageRef = "/weekly-meeting"
 weight = 40
-[[menu.main]]
+
+[[languages.ja.menu.main]]
+name = "運営体制"
+pageRef = "/organization"
+weight = 50
+[[languages.en.menu.main]]
 name = "Organization"
 pageRef = "/organization"
 weight = 50
-[[menu.main]]
+
+[[languages.ja.menu.main]]
+name = "連絡先"
+pageRef = "/contact"
+weight = 60
+[[languages.en.menu.main]]
 name = "Contact"
 pageRef = "/contact"
 weight = 60
+
+[languages.ja]
+  title = "CALST: 先進的学習科学と工学合同勉強会"
+  weight = 1
+  languageName = "日本語"
+  contentDir = "content/ja"
+
+[languages.en]
+  title = "CALST: Co-study Group on Advanced Learning Science and Technology"
+  weight = 2
+  languageName = "English"
+  contentDir = "content/en"
