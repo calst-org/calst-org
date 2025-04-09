@@ -26,7 +26,7 @@ This is a place for **continuous participation and shared commitment**, designed
 #### Schedule and Format
 
 - **When:** Every Thursday, 7:00 pm to 9:00 pm (GMT+9 / JST)
-  - This schedule will remain in effect for **the second semester of 2024**.
+  - This schedule will remain in effect for **the first semester of 2025**.
   - Adjustments may be made at the beginning of each semester.
 - **Where:** Online via Discord
 - **Format:** Typically includes 2–3 member presentations with Q&A, followed by in-depth open discussions on selected topics.
